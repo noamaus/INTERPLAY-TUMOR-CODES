@@ -1,7 +1,7 @@
 ## Interplay between DNA damage repair and apoptosis shapes tumor evolution and clinical outcome 
 ## through aneuploidy and microsatellite instability 
 
-![FIG6](https://user-images.githubusercontent.com/18428559/64536866-d4253f80-d2e7-11e9-858b-998a0cbdcdbb.png)
+![FIG6](https://user-images.githubusercontent.com/18428559/64537147-4564f280-d2e8-11e9-9c73-b1a8204ebc43.png)
 
 ##System requirments 
 %%%System requirements: MATLAB has to be installed. %%%Version checked on: MATLAB 2018a. 
