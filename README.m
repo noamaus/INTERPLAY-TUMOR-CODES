@@ -2,12 +2,12 @@
 %% and clinical outcome through aneuploidy and microsatellite instability 
 
 
-
+##System requirments 
 %%%System requirements: MATLAB has to be installed. %%%Version checked on: MATLAB 2018a. 
 %%%OS tested: mac OS 10.12.6 ans 10.10.5 
 %%%Typical running time: all codes run in a few minutes or less. 
 
-
+##Description
 %%%% This code is divided into three directories, in each is the code for
 %%%% different part of the manuscript. The codes are parted to different
 %%%% scripts, which are performing the analyses and plotting the main
