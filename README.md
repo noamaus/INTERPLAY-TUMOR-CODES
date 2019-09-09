@@ -4,9 +4,10 @@
 
 
 ## System requirments
-System requirements: MATLAB has to be installed. %%%Version checked on: MATLAB 2018a. 
+System requirements: MATLAB has to be installed
+Version checked on: MATLAB 2018a
 OS tested: mac OS 10.12.6 ans 10.10.5 
-Typical running time: all codes run in a few minutes or less. 
+Typical running time: all codes run in a few minutes or less
 
 
 ## Description
