@@ -29,6 +29,7 @@ Scripts to run (to reproduce Figure 2-3 results):
 5. FIGURE3CD
 
 # STEP 3 - Analyses related to Figures 4-5
+Scripts to run (to reproduce Figure 4-5 results):
 1. FIGURE4A
 2. FIGURE4BDE
 3. FIGURE4C
