@@ -1,6 +1,6 @@
 ## Interplay between DNA damage repair and apoptosis shapes tumor evolution and clinical outcome through aneuploidy and microsatellite instability 
 
-![INTERPLAY](https://user-images.githubusercontent.com/18428559/64537883-a50fcd80-d2e9-11e9-8e8d-89ca9ceb535f.png)
+![INTERPLAY](https://user-images.githubusercontent.com/18428559/73112701-be529880-3edd-11ea-9367-0735874824bb.png)
 
 
 ## System requirments
