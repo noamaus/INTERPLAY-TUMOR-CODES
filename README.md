@@ -2,13 +2,14 @@
 
 ![INTERPLAY](https://user-images.githubusercontent.com/18428559/73112701-be529880-3edd-11ea-9367-0735874824bb.png)
 
+## Citation 
+Noam Auslander, Yuri I Wolf, Eugene V Koonin. [Interplay between DNA damage repair and apoptosis shapes cancer evolution through aneuploidy and microsatellite instability](https://www.nature.com/articles/s41467-020-15094-2). Nature Communications, March 2020.
 
 ## System requirments
 System requirements: MATLAB has to be installed
 Version checked on: MATLAB 2018a
 OS tested: mac OS 10.12.6 ans 10.10.5 
 Typical running time: all codes run in a few minutes or less
-
 
 ## Description
 This code is divided into three directories, in each is the code for different part of the manuscript. The codes are parted to different scripts, which are performing the analyses and plotting the main figures in the manuscript 
